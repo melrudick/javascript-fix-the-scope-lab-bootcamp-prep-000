@@ -19,9 +19,9 @@ function add2(n) {
   const two = 2;
 }
 
-var funkyFunction = "FUNKY!" {
+var funkyFunction = "FUNKY!";
   return funkyFunction;
-  }
+  
 
 
 // We want 'funkyFunction' on the line below to return a function that returns "FUNKY!" -- how can we accomplish that?
