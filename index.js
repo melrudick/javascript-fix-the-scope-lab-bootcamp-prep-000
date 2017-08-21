@@ -32,7 +32,3 @@ var funkyFunction = function() {
 // NOTE: To pass this final test, you only need to modify the code below this line.
 
 return funkyFunction
-
-
-
-
